@@ -1,0 +1,5 @@
+Q:\GitHub\CourseProject\CourseProject\x64\Release\CourseProject.vcxproj.AssemblyReference.cache
+Q:\GitHub\CourseProject\CourseProject\x64\Release\CourseProject.vcxproj.SuggestedBindingRedirects.cache
+Q:\GitHub\CourseProject\CourseProject\x64\Release\CourseProject.CreateDataControlForm.resources
+Q:\GitHub\CourseProject\CourseProject\x64\Release\CourseProject.MainForm.resources
+Q:\GitHub\CourseProject\CourseProject\x64\Release\CourseProject.vcxproj.GenerateResource.cache

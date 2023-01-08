@@ -1,0 +1,4 @@
+﻿  DataControlFile.cpp
+Q:\GitHub\CourseProject\CourseProject\DataControlFile.cpp(35): warning C4715: 'DataControlFile::Create': not all control paths return a value
+  CreateDataControlForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CourseProject.vcxproj -> Q:\GitHub\CourseProject\x64\Debug\CourseProject.exe

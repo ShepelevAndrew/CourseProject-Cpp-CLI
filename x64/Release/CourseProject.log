@@ -1,0 +1,11 @@
+﻿  CreateDataControlForm.cpp
+  DataControlFile.cpp
+  Employee.cpp
+  MainForm.cpp
+Q:\GitHub\CourseProject\CourseProject\MainForm.h(296,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+Q:\GitHub\CourseProject\CourseProject\MainForm.h(298,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+Q:\GitHub\CourseProject\CourseProject\DataControlFile.cpp(35): warning C4715: 'DataControlFile::Create': not all control paths return a value
+  CreateDataControlForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CourseProject.vcxproj -> Q:\GitHub\CourseProject\x64\Release\CourseProject.exe
