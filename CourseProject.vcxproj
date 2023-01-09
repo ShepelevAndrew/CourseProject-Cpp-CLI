@@ -137,6 +137,7 @@
     <ClInclude Include="MainForm.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="CreateDataControlForm.resx">
@@ -149,8 +150,12 @@
   <ItemGroup>
     <Image Include="create.png" />
     <Image Include="delete.png" />
+    <Image Include="Image\icon_window.ico" />
     <Image Include="restart.png" />
     <Image Include="writing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CourseProject.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
